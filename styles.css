@@ -42,7 +42,6 @@ body {
 
 .gallery img:hover {
     top:-2px;
-    box-shadow:0 2px 2px #666;
     transform: scale(1.04);
     cursor: pointer;
 }
